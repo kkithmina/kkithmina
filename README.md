@@ -10,3 +10,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Want to do everything but finally nothing !
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkithmina)](https://github.com/anuraghazra/github-readme-stats)
+
+
