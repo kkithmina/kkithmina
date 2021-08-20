@@ -11,9 +11,9 @@
 - ⚡ Fun fact: Want to do everything but finally nothing !
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkithmina&show_icons=true&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkithmina&show_icons=true)
+
 
 
 
