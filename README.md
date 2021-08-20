@@ -9,6 +9,7 @@
 - 📫 How to reach me:[Facebook - @kavindu.kithmina](https://www.facebook.com/kavindu.kithmina/) , [Instagram -@kithmina](https://www.instagram.com/k_i_t_h_m_i_n_a_/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Want to do everything but finally nothing !
+- Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkithmina)](https://github.com/anuraghazra/github-readme-stats)
 
