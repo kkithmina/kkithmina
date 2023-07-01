@@ -1,9 +1,9 @@
 ### Hi I'm Kavindu Kithmina 👋
 
 
-- 🔭 I’m currently working on My own Mobile Application
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter Mobile Application Projects
+- 🔭 I’m currently working to be a software engineer intern
+- 🌱 I’m currently learning web development techniques (HTML5, CSS3, JS)
+- 👯 I’m looking to collaborate on Web Application Projects
 - 🤔 I’m looking for help with Laravel & PHP
 - 💬 Ask me about Tech Updates
 - 📫 How to reach me: [Facebook - @kavindu.kithmina](https://www.facebook.com/kavindu.kithmina/) | [Instagram -@kithmina](https://www.instagram.com/k_i_t_h_m_i_n_a_/)
